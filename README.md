@@ -1,2 +1,2 @@
-# optimization-theano
+# optimization-package
 optimization methods
