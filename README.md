@@ -1,2 +1,2 @@
 # optimization-package
-optimization methods
+optimization methods based on theano
